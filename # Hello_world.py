@@ -2,3 +2,4 @@
 
 import pysimplegui
 
+print("hello")
